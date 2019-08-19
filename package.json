@@ -1,0 +1,14 @@
+{
+  "name": "excel-utility",
+  "version": "1.0.0",
+  "description": "Read excel and create json",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/excel-test.js"
+  },
+  "author": "pravin.surve@travelex.com",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.9.0"
+  }
+}
